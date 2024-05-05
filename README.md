@@ -1,10 +1,10 @@
+## ⚠️ RUNNING THIS PROJECT IS SUPER DANGEROUS. USE WITH CAUTION ⚠️
+
+> Captain Ahab runs commands on your local machine! We are not responsible for any damage incurred.
+
 # Captain Ahab 
 
 An AI Agent that helps you build, deploy, and run Docker containers. 
-
-# ⚠️ RUNNING THIS PROJECT IS SUPER DANGEROUS. USE WITH CAUTION ⚠️
-
-Captain Ahab runs commands on your local machine! We are not responsible for any damage incurred.
 
 ## Quickstart Setup
 
