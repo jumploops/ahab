@@ -1,4 +1,4 @@
-## ⚠️ RUNNING THIS PROJECT IS SUPER DANGEROUS. USE WITH CAUTION ⚠️
+## ⚠️ RUNNING THIS PROJECT DANGEROUS. USE WITH CAUTION ⚠️
 
 > Captain Ahab runs commands on your local machine! We are not responsible for any damage incurred.
 
