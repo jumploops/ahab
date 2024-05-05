@@ -3,7 +3,7 @@
 import React, { useState, useEffect } from "react";
 import { RequiredActionFunctionToolCall } from "openai/resources/beta/threads/runs/runs";
 import Chat from "./components/chat";
-import Terminal from './components/webTerminal';
+import Terminal from './components/terminal';
 
 const Home = () => {
   const [output, setOutput] = useState<string[]>([]);
