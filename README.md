@@ -1,4 +1,4 @@
-<h2 align="center"> ⚠️ RUNNING THIS PROJECT DANGEROUS. USE WITH CAUTION ⚠️ </h2>
+<h2 align="center"> ⚠️ RUNNING THIS PROJECT IS DANGEROUS. USE WITH CAUTION ⚠️ </h2>
 
 <p align="center">
   <img src="/public/logo.png" alt="alt text" width="300px"/>
