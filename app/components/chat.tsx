@@ -60,7 +60,7 @@ type ChatProps = {
 const Chat = ({
   functionCallHandler = () => Promise.resolve(""), // default to return empty string
 }: ChatProps) => {
-  const [userInput, setUserInput] = useState("Create a Docker image to run create-react-app");
+  const [userInput, setUserInput] = useState("Create a Docker image to run create-react-app, the code is in ~/code/cra");
   const [messages, setMessages] = useState([]);
   const [inputDisabled, setInputDisabled] = useState(false);
   const [threadId, setThreadId] = useState("");
